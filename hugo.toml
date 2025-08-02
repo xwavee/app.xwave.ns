@@ -2,8 +2,6 @@ baseURL = 'https://ns.xwave.app/'
 title = 'Switch Prod Keys'
 theme = 'hugo-book'
 
-googleAnalytics = 'ca-pub-6178635866936443'
-
 # [caches]
 #   [caches.images]
 #     dir = ':cacheDir/images'
