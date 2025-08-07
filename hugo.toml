@@ -29,16 +29,13 @@ enableGitInfo = true
   weight = 1
 
 [languages.zh]
-  languageName = 'Chinese'
+  languageName = '中文'
   contentDir = 'content.zh'
   weight = 2
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "XWAVE HQ"
-  url = "https://xwave.app"
-  weight = 10
+# [[menu.after]]
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
