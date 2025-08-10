@@ -30,7 +30,7 @@ enableGitInfo = true
   [languages.en.menus]
     [[languages.en.menus.after]]
       name = 'Firmwares'
-      url = '/posts/firmwares'
+      pageRef = '/posts/firmwares'
       weight = 10
     [[languages.en.menus.after]]
       name = 'Prod Keys'
@@ -44,7 +44,7 @@ enableGitInfo = true
   [languages.zh.menus]
     [[languages.zh.menus.after]]
       name = '固件'
-      url = '/posts/firmwares'
+      pageRef = '/posts/firmwares'
       weight = 10
     [[languages.zh.menus.after]]
       name = 'Prod Keys'
