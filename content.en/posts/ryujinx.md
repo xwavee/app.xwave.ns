@@ -1,19 +1,59 @@
 ---
-title: "Ryujinx"
+title: "Ryujinx Emulator Installation Guide"
 date: 2025-08-02T00:14:05+03:00
 # bookComments: false
 # bookSearchExclude: false
 ---
 
-Are you tired of searching internet and not getting the working ryujinx prod keys, title keys and firmware for your Pc and other devices?
-
-Well, search no more because we’ve got you covered. Our Website provides the latest and 100% working prod keys, title keys and firmwares for ryujinx **V20.3.0**
-
-
-
 ## What is Ryujinx?
 
 Ryujinx is an open-source Nintendo Switch emulator designed to replicate the Switch gaming experience on computers. Created primarily in C#, it aims for accuracy and performance in emulating Switch games. With support for both Windows and Linux (and sometimes MacOS), Ryujinx enables users to play Switch games at various resolutions and frame rates, often with enhancements over the original console’s output.
+
+Official Ryujinx Website: https://ryujinx.app/
+
+{{% columns %}}
+### Windows
+Available for Windows 10 and 11. Most users will need the x64 version.
+
+<img src="/images/windows.png" width="100"/>
+
+{{<button url="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}Download x64{{</button>}}
+
+<--->
+
+### MacOS
+Only Apple Silicon Macs are properly supported.
+
+<img src="/images/macos.png" width="100"/>
+
+{{<button url="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}Download{{</button>}}
+
+<--->
+
+### Linux (normal)
+
+Standard Linux executable, with its dependencies, in a tarball.
+
+<img src="/images/linux.png" width="100"/>
+
+{{<button url="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}Download x64{{</button>}}
+
+{{<button url="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}Download ARM{{</button>}}
+
+{{% /columns %}}
+
+{{% columns %}}
+
+### Linux (AppImage)
+Available for most modern Linux distributions.
+
+<img src="/images/linux.png" width="100"/>
+
+{{<button url="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}Download x64{{</button>}}
+
+{{<button url="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}Download ARM{{</button>}}
+
+{{% /columns %}}
 
 ## What are Ryujinx Prod Keys?
 
@@ -29,41 +69,55 @@ For ryujinx emulator to run properly and smoothly in your pc and other devices i
 
 ## Ryujinx Prod Keys 
 
-| **Ryujinx Keys Version** | **Download Links**                                           |
-| ------------------------ | ------------------------------------------------------------ |
-| **V20.1.5 (NEW)**    | [DOWNLOAD](https://toolible.xyz/2025/06/28/prod-keys-20-1-5/) |
-| V20.1.1              | [DOWNLOAD](https://toolible.xyz/2025/06/14/prod-keys-20-1-1/) |
-| V20.0.1              | [DOWNLOAD](https://edrtimes.com/business-law/is-your-online-business-legally-ready-for-global-sales/) |
-| V20.0.0              | [DOWNLOAD](https://edrtimes.com/lawsuit/when-does-a-business-lawsuit-become-a-criminal-case/) |
-| V19.0.1              | [DOWNLOAD](https://drive.google.com/file/d/1FORtYulF8LQobs_0i7GYayULP14ycPDx/view) |
-| V19.0.0              | [DOWNLOAD](https://gplinks.co/9Y10eHu)                   |
-| V18.1.0              | [DOWNLOAD](https://gplinks.co/sqn5oS)                    |
-| V18.0.1              | [DOWNLOAD](https://drive.google.com/file/d/14FO-VxbY9CU1LsiRog3t4QQGHDMBu6so/view?usp=drive_link) |
-| V18.0.0                  | [DOWNLOAD](https://drive.google.com/file/d/1paxwAliKtoYZ5KuXhxoA-Skq7gpP3E81/view?usp=drive_link) |
-| V17.0.0                  | [DOWNLOAD](https://drive.google.com/file/d/169Ih6wWRPdRoxc16oxYFB2DgAayTZNEY/view?usp=sharing) |
-| V16.1.0                  | [DOWNLOAD](https://drive.google.com/file/d/1EDzyxwO-KrtSgMtKjs7tGUSXsmJWjmql/view?usp=sharing) |
-| V16.0.3                  | [DOWNLOAD](https://drive.google.com/file/d/1DSUHY3ddEznNcnaW2DYPo9Ka_UoZoUsC/view?usp=sharing) |
+| Versions |                            Links                             |
+| :------: | :----------------------------------------------------------: |
+| v20.3.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.3.0.zip)** |
+| v20.2.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.2.0.zip)** |
+| V20.1.5  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.1.5.zip)** |
+| V20.1.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.1.1.zip)** |
+| V20.1.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.1.0.zip)** |
+| V20.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.0.1.zip)** |
+| V20.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.0.0.zip)** |
+| V19.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v19.0.1.zip)** |
+| V19.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v19.0.0.zip)** |
+| V18.1.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v18.1.0.zip)** |
+| V18.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v18.0.1.zip)** |
+| V18.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v18.0.0.zip)** |
+| V17.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v17.0.1.zip)** |
+| V17.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v17.0.0.zip)** |
+| V16.1.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v16.1.0.zip)** |
+| V16.0.3  | **[DOWNLOAD](/prodkeys/ProdKeys_v16.0.3.zip)** |
+| V16.0.2  | **[DOWNLOAD](/prodkeys/ProdKeys_v16.0.2.zip)** |
+| V16.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v16.0.1.zip)** |
+| V16.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v16.0.0.zip)** |
 
 ## Ryujinx Firmware
 
 Ryujinx firmwares refer to the system software files from the Nintendo Switch console that the Ryujinx emulator needs to simulate the Switch operating environment. These firmware files contain essential system modules and libraries that many games rely on to run properly, mimicking the functionality of the actual console.
 
-| **Ryujinx Firmwares Version** | **Download Links**                                           |
-| ----------------------------- | ------------------------------------------------------------ |
-| **V20.3.0 (NEW)**         | [DOWNLOAD](https://toolible.xyz/2025/07/29/firmware-20-3-0/) |
-| V20.2.0             | [DOWNLOAD](https://toolible.xyz/2025/07/16/switch-firmware-20-2-0/) |
-| V20.1.5         | [DOWNLOAD](https://toolible.xyz/2025/06/28/firmware-20-1-5/) |
-| V20.1.1                   | [DOWNLOAD](https://toolible.xyz/2025/06/14/firmware-20-1-1/) |
-| V20.1.0                   | [DOWNLOAD](https://edrtimes.com/business-law/business-law-compliance-checklist-for-online-only-companies-2025-guide/) |
-| V20.0.1                   | [DOWNLOAD](https://edrtimes.com/contracts/smart-contracts-vs-ai-generated-contracts/) |
-| V20.0.0                   | [DOWNLOAD](https://edrtimes.com/cpc/insurance-policy-in-2025/) |
-| V19.0.1                   | [DOWNLOAD](https://drive.google.com/file/d/1Fm-P8-Uw9ayyImax1bziYq2GuD4cDjKC/view) |
-| V19.0.0                   | [DOWNLOAD](https://drive.google.com/file/d/1RCL6BVas8jkM_vE7p0AhCYNA8E46-BxS/view?usp=drive_link) |
-| V18.1.0                   | [DOWNLOAD](https://drive.google.com/file/d/13gAta4FlMdMl-JdIJvaBvzp9DiWk6s5L/view?usp=drive_link) |
-| V18.0.0                       | [DOWNLOAD](https://drive.google.com/file/d/13gAta4FlMdMl-JdIJvaBvzp9DiWk6s5L/view?usp=drive_link) |
-| V17.0.0                       | [DOWNLOAD](https://drive.google.com/file/d/1lGRo5tRFh3JZ2SzlxQdPzoZM0zlXWAtn/view?usp=sharing) |
-| V16.1.0                       | [DOWNLOAD](https://drive.google.com/file/d/1p2-25Y2bbXSVhd0ss5rsmgJLXsfsKwBc/view?usp=sharing) |
-| V16.0.3                       | [DOWNLOAD](https://drive.google.com/file/d/1hjUd-Kx4TB072B0rDXYEnnulGodwkT61/view?usp=sharing) |
+| Version | File Size | Links                                                        |
+| ------- | --------- | ------------------------------------------------------------ |
+| v20.3.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip) |
+| v20.2.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.2.0/Firmware.20.2.0.zip) |
+| V20.1.5 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.1.5/Firmware.20.1.5.zip) |
+| v20.1.1 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.1.1/Firmware.20.1.1.zip) |
+| v20.1.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.1.0/Firmware.20.1.0.zip) |
+| v20.0.1 | 339MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip) |
+| v20.0.0 | 339MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip) |
+| v19.0.1 | 322MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip) |
+| v19.0.0 | 322MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip) |
+| v18.1.0 | 320MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip) |
+| v18.0.1 | 323MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip) |
+| v18.0.0 | 323MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/18.0.0/Firmware.18.0.0.zip) |
+| v17.0.1 | 323MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip) |
+| v17.0.0 | 323MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip) |
+| v16.1.0 | 325MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip) |
+| v16.0.3 | 325MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/16.0.3/Firmware.16.0.3.zip) |
+| v16.0.2 | 325MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/16.0.2/Firmware.16.0.2.zip) |
+| v16.0.1 | 325MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/16.0.1/Firmware.16.0.1.zip) |
+| v16.0.0 | 325MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/16.0.0/Firmware.16.0.0.zip) |
+| v15.0.1 | 322MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/15.0.1/Firmware.15.0.1.zip) |
+| v15.0.0 | 322MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/15.0.0/Firmware.15.0.0.zip) |
 
 **Here’s an overview of Ryujinx firmware requirements:**
 
@@ -201,8 +255,6 @@ Ryujinx has specific requirements to run Nintendo Switch games smoothly on a PC.
   - AMD: Radeon R9 380 or higher (Vulkan support)
   - Intel: Iris Plus or newer (may have limited performance)
   - RAM: 8 GB or more
-
-Related: [Best Nintendo Switch Emulators for All Devices](https://switchprodkeys.net/best-nintendo-switch-emulators/)
 
 For better performance with higher-resolution rendering and more demanding games, the following specs are recommended:
 

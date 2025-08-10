@@ -27,11 +27,29 @@ enableGitInfo = true
   languageName = 'English'
   contentDir = 'content.en'
   weight = 1
+  [languages.en.menus]
+    [[languages.en.menus.after]]
+      name = 'Firmwares'
+      url = '/posts/firmwares'
+      weight = 10
+    [[languages.en.menus.after]]
+      name = 'Prod Keys'
+      pageRef = '/posts/prod-keys'
+      weight = 20
 
 [languages.zh]
   languageName = '中文'
   contentDir = 'content.zh'
   weight = 2
+  [languages.zh.menus]
+    [[languages.zh.menus.after]]
+      name = '固件'
+      url = '/posts/firmwares'
+      weight = 10
+    [[languages.zh.menus.after]]
+      name = 'Prod Keys'
+      pageRef = '/posts/prod-keys'
+      weight = 20
 
 [menu]
 # [[menu.before]]

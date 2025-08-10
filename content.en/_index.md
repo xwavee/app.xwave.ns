@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Switch Prod Keys
-Get the latest Nintendo Switch Prod keys, Title keys, and Firmwares v20.3.0 for Yuzu, Ryujinx, Citron, Eden, Sudachi, Suyu, Citra, and Skyline for your pc and Android devices.
+Get the latest Nintendo Switch Prod keys, Title keys, and Firmwares for Yuzu, Ryujinx, Citron, Eden, Sudachi, Suyu, Citra, and Skyline for your pc and Android devices.
 
 ## **Switch Keys and Firmware**
 
@@ -16,36 +16,54 @@ Our Website is made to solve your problem of searching all day for the latest an
 
 **NOTE**: All Emulators below are Open Source, and you can download them from their official websites
 
-Get the Latest Version V20.2.0 Prod.keys, Title.keys and Firmwares for Your Switch Emulators like: Yuzu, Ryujinx, Skyline, Cemu and any other Nintendo Switch Emulators for both Your PC and Android Devices.
-
-{{% columns %}}
 ## Ryujinx
-
-Latest Ryujinx Prod keys, Title Keys and Firmware V20.3.0
 
 ![](/images/ryujinx.png)
 
-{{<button relref="/posts/ryujinx">}}Download Keys{{</button>}}
+- Excellent performance, especially in Pokémon, Animal Crossing, and Smash.
+- Native macOS support.
+- Requires prod.keys and firmware files.
+- Windows/Linux/MacOS
 
-<--->
+{{<button relref="/posts/ryujinx">}}Installation Guide{{</button>}}
 
 ## YUZU
-Latest Yuzu Prod keys, Title Keys and Firmware V20.3.0
 
 ![](/images/yuzu.png)
 
-{{<button relref="/posts/yuzu">}}Download Keys{{</button>}}
+- Open-source & stable.
+- Supports Vulkan/OpenGL.
+- Requires prod.keys + title.keys for most games.
+- Windows/Linux/Android
 
-<--->
+{{<button relref="/posts/yuzu">}}Installation Guide{{</button>}}
 
 ## Skyline
-Latest Skyline Prod keys, Title Keys and Firmware V20.3.0
 
-![](/images/skyline.jpg)
+![](/images/skyline.png)
 
-{{<button relref="/posts/skyline">}}Download Keys{{</button>}}
+- Skyline emulator is a Nintendo Switch for Android. It allows you to play switch games on your Android device. You can play the game with Skyline without having to buy a controller. There are several playable games that Skyline supports.
+- Android
 
-{{% /columns %}}
+{{<button relref="/posts/skyline">}}Installation Guide{{</button>}}
+
+## Eden
+
+![](/images/eden.png)
+
+{{<button relref="/posts/eden">}}Installation Guide{{</button>}}
+
+## Citron
+
+![](/images/citron.png)
+
+{{<button relref="/posts/citron">}}Installation Guide{{</button>}}
+
+## Strato
+
+- Successor to Skyline; open-source.
+- Still under development.
+- Uses the same key files (prod.keys) as Yuzu.
 
 ## What are Nintendo Switch Emulators?
 
@@ -91,13 +109,9 @@ Switch Prod keys, short for “production keys,” are encryption keys used prim
 
 **For example**, when a game is created, it’s encrypted to prevent unauthorized access or copying. The console uses its prod keys to decrypt and play these games. Without the correct prod keys, the console or emulator cannot access the content. This protection ensures that only licensed devices can play official games, helping protect against piracy.
 
-
-
 ## **What are Switch Title Keys?**
 
 Switch Title keys are encryption keys specific to individual games or applications on gaming consoles, such as the Nintendo Switch. They are used to decrypt and access content for a specific title or piece of software, allowing the console to read the game files for that particular application. While prod keys unlock access to the system-wide encryption and are essential for running software on the console, title keys provide a more granular level of security by protecting each game or app individually.
-
-
 
 **Here’s how it works:**
 
@@ -108,8 +122,6 @@ Switch Title keys are encryption keys specific to individual games or applicatio
 ## **What are Switch Firmware?**
 
 Nintendo Switch firmware is the software that operates and controls the core functions of the Nintendo Switch console. It includes the operating system, security protocols, and various built-in features that enable the Switch to run games, connect to the internet, and interact with accessories. Firmware updates are regularly released by Nintendo to introduce new features, improve performance, fix bugs, and enhance security.
-
-
 
 **Some key elements of Nintendo Switch firmware include:**
 
@@ -171,42 +183,32 @@ Transferring saves can be useful for players wanting to continue progress across
 
 Extracting prod keys is generally intended for personal backup or use with homebrew applications. If you’re interested in maintaining legitimate backups of your games, consider checking with Nintendo-approved options for game preservation.
 
-
-
 ## **Switch Prod Keys FAQ’s**
-
-
 
 ### How to Dump Prod Keys Switch?
 
 Dumping Nintendo Switch prod keys requires installing custom firmware (CFW) and using specialized tools to extract the keys directly from your console. Here’s an overview of how to do this:
 
-**Steps to Dump Prod Keys from a Nintendo Switch
-**
+**Steps to Dump Prod Keys from a Nintendo Switch**
+
 **Note**: This process requires using custom firmware on your Switch, which may void your warranty, and could lead to a ban from Nintendo’s online services if not done carefully. Only certain Switch models can run custom firmware.
 
-**1. Check CFW Compatibility:
-**
+**1. Check CFW Compatibility:**
 First, verify that your Switch is compatible with custom firmware (CFW). Older models can enter RCM (Recovery Mode), while newer models may be more restricted.
 
-**2. Install Atmosphère CFW:
-**
+**2. Install Atmosphère CFW:**
 Install Atmosphère or a similar CFW on your Switch. You’ll need a microSD card and tools to boot into RCM mode, such as a jig or by holding specific button combinations (varies by model).
 
-**3. Download and Set Up Lockpick_RCM:
-**
+**3. Download and Set Up Lockpick_RCM:**
 Lockpick_RCM is a popular homebrew tool used to dump prod keys and title keys from the console. Download the latest Lockpick_RCM payload and place it on your microSD card.
 
-**4. Boot into RCM Mode:
-**
+**4. Boot into RCM Mode:**
 To enter RCM mode, turn off the Switch, hold the Volume Up and Power buttons, and insert the jig or use another method to activate RCM. You can use tools like TegraRcmGUI on your PC to inject the payload.
 
-**5. Run Lockpick_RCM:
-**
+**5. Run Lockpick_RCM:**
 Once Lockpick_RCM is loaded, it will automatically dump your prod keys and title keys, saving them to your SD card in a directory (usually /switch/lockpick or similar).
 
-**6. Transfer Keys to Your Computer:
-**
+**6. Transfer Keys to Your Computer:**
 Remove the microSD card, insert it into your computer, and locate the prod.keys file. This file contains the necessary keys for emulators or personal backups.
 
 ### Are Switch Prod Keys Illigal?
@@ -220,7 +222,3 @@ Yes, There are many switch emulators that works on Android devices too.
 ### How to Download Prod Keys?
 
 You can easily download prod keys from [ns.xwave.app](https://ns.xwave.app/)
-
-### Nintendo Switch Emulation Requirements
-
-[Run Nintendo Switch Emulators Smoothly ](https://switchprodkeys.net/run-nintendo-switch-emulators-smoothly/)with these recommendations

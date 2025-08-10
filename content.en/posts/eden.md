@@ -1,6 +1,6 @@
 ---
-title: "Yuzu"
-date: 2025-08-02T00:59:07+03:00
+title: "Eden"
+date: 2025-08-10T12:03:10+03:00
 # bookComments: false
 # bookSearchExclude: false
 ---
