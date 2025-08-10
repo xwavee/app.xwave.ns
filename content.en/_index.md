@@ -1,6 +1,6 @@
 ---
 title: Introduction
-type: docs
+bookHeadingAnchor: false
 ---
 
 # Switch Prod Keys
@@ -16,54 +16,37 @@ Our Website is made to solve your problem of searching all day for the latest an
 
 **NOTE**: All Emulators below are Open Source, and you can download them from their official websites
 
-## Ryujinx
+{{% columns %}}
+- {{< card title="Ryujinx" image="/images/ryujinx.png" >}}
+  ## Ryujinx
+  - Excellent performance, especially in Pokémon, Animal Crossing, and Smash.
+  - Native macOS support.
+  - Requires prod.keys and firmware files.
+  - Windows/Linux/MacOS
+  
+  {{<button relref="/posts/ryujinx">}}Installation Guide{{</button>}}
+  {{< /card >}}
 
-![](/images/ryujinx.png)
+- {{< card title="YUZU" image="/images/yuzu.png" >}}
+  ## YUZU
+  - Open-source & stable.
+  - Supports Vulkan/OpenGL.
+  - Requires prod.keys + title.keys for most games.
+  - Windows/Linux/Android
+  
+  {{<button relref="/posts/yuzu">}}Installation Guide{{</button>}}
+  
+  {{< /card >}}
 
-- Excellent performance, especially in Pokémon, Animal Crossing, and Smash.
-- Native macOS support.
-- Requires prod.keys and firmware files.
-- Windows/Linux/MacOS
+- {{< card title="Skyline" image="/images/skyline.png" >}}
+  ## Skyline
+  - Skyline emulator is a Nintendo Switch for Android. It allows you to play switch games on your Android device. You can play the game with Skyline without having to buy a controller. There are several playable games that Skyline supports.
+  - Android
+  
+  {{<button relref="/posts/skyline">}}Installation Guide{{</button>}}
+  {{< /card >}}
 
-{{<button relref="/posts/ryujinx">}}Installation Guide{{</button>}}
-
-## YUZU
-
-![](/images/yuzu.png)
-
-- Open-source & stable.
-- Supports Vulkan/OpenGL.
-- Requires prod.keys + title.keys for most games.
-- Windows/Linux/Android
-
-{{<button relref="/posts/yuzu">}}Installation Guide{{</button>}}
-
-## Skyline
-
-![](/images/skyline.png)
-
-- Skyline emulator is a Nintendo Switch for Android. It allows you to play switch games on your Android device. You can play the game with Skyline without having to buy a controller. There are several playable games that Skyline supports.
-- Android
-
-{{<button relref="/posts/skyline">}}Installation Guide{{</button>}}
-
-## Eden
-
-![](/images/eden.png)
-
-{{<button relref="/posts/eden">}}Installation Guide{{</button>}}
-
-## Citron
-
-![](/images/citron.png)
-
-{{<button relref="/posts/citron">}}Installation Guide{{</button>}}
-
-## Strato
-
-- Successor to Skyline; open-source.
-- Still under development.
-- Uses the same key files (prod.keys) as Yuzu.
+{{% /columns %}}
 
 ## What are Nintendo Switch Emulators?
 

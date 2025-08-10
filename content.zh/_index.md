@@ -1,6 +1,5 @@
 ---
 title: 介绍
-type: docs
 ---
 
 # Switch 生产密钥（Prod Keys）
@@ -16,54 +15,37 @@ Switch 的 Prod.Keys 与固件是决定 Nintendo Switch 在原机与模拟器环
 
 **注意**：下列所有模拟器均为开源，你可以从其官方网站下载。
 
-## Ryujinx
+{{% columns %}}
+- {{< card title="Ryujinx" image="/images/ryujinx.png" >}}
+  ## Ryujinx
+  - 出色的性能，尤其是在宝可梦、动森与任天堂明星大乱斗等游戏中。
+  - 原生支持 macOS。
+  - 需要 prod.keys 与固件文件。
+  - Windows/Linux/macOS
+  
+  {{<button relref="/posts/ryujinx">}}安装指南{{</button>}}
+  {{< /card >}}
 
-![](/images/ryujinx.png)
+- {{< card title="YUZU" image="/images/yuzu.png" >}}
+  ## YUZU
+  - 开源且稳定。
+  - 支持 Vulkan/OpenGL。
+  - 大多数游戏需要 prod.keys + title.keys。
+  - Windows/Linux/Android
+  
+  {{<button relref="/posts/yuzu">}}安装指南{{</button>}}
+  
+  {{< /card >}}
 
-- 出色的性能，尤其是在宝可梦、动森与任天堂明星大乱斗等游戏中。
-- 原生支持 macOS。
-- 需要 prod.keys 与固件文件。
-- Windows/Linux/macOS
+- {{< card title="Skyline" image="/images/skyline.png" >}}
+  ## Skyline
+  - Skyline 是面向 Android 的 Nintendo Switch 模拟器，可在安卓设备上游玩 Switch 游戏。无需外接手柄即可游玩，支持多款可玩游戏。
+  - Android
+  
+  {{<button relref="/posts/skyline">}}安装指南{{</button>}}
+  {{< /card >}}
 
-{{<button relref="/posts/ryujinx">}}安装指南{{</button>}}
-
-## Yuzu
-
-![](/images/yuzu.png)
-
-- 开源且稳定。
-- 支持 Vulkan/OpenGL。
-- 大多数游戏需要 prod.keys + title.keys。
-- Windows/Linux/Android
-
-{{<button relref="/posts/yuzu">}}安装指南{{</button>}}
-
-## Skyline
-
-![](/images/skyline.png)
-
-- Skyline 是面向 Android 的 Nintendo Switch 模拟器，可在安卓设备上游玩 Switch 游戏。无需外接手柄即可游玩，支持多款可玩游戏。
-- Android
-
-{{<button relref="/posts/skyline">}}安装指南{{</button>}}
-
-## Eden
-
-![](/images/eden.png)
-
-{{<button relref="/posts/eden">}}安装指南{{</button>}}
-
-## Citron
-
-![](/images/citron.png)
-
-{{<button relref="/posts/citron">}}安装指南{{</button>}}
-
-## Strato
-
-- Skyline 的继任者；开源。
-- 仍在积极开发中。
-- 使用与 Yuzu 相同的密钥文件（prod.keys）。
+{{% /columns %}}
 
 ## 什么是 Nintendo Switch 模拟器？
 

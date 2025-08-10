@@ -42,6 +42,18 @@ enableGitInfo = true
       name = 'Prod Keys'
       pageRef = '/posts/prod-keys'
       weight = 20
+    [[languages.en.menus.home]]
+      name = 'Firmwares'
+      pageRef = '/posts/firmwares'
+      weight = 30
+    [[languages.en.menus.home]]
+      name = 'Prod Keys'
+      pageRef = '/posts/prod-keys'
+      weight = 40
+    [[languages.en.menus.home]]
+      name = '中文'
+      url = '/zh'
+      weight = 50
 
 [languages.zh]
   languageName = '中文'
@@ -56,10 +68,18 @@ enableGitInfo = true
       name = 'Prod Keys'
       pageRef = '/posts/prod-keys'
       weight = 20
-
-[menu]
-# [[menu.before]]
-# [[menu.after]]
+    [[languages.zh.menus.home]]
+      name = '固件'
+      pageRef = '/posts/firmwares'
+      weight = 30
+    [[languages.zh.menus.home]]
+      name = 'Prod Keys'
+      pageRef = '/posts/prod-keys'
+      weight = 40
+    [[languages.zh.menus.home]]
+      name = 'English'
+      url = '/'
+      weight = 50
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -88,17 +108,15 @@ enableGitInfo = true
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo = 'https://github.com/xwavee/app.xwave.ns'
 
-  # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
-  # commit hash for 'doc' page type.
-  # Requires 'BookRepo' param.
-  # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
-  # Github uses 'commit', Bitbucket uses 'commits'
-  # BookCommitPath = 'commit'
+  # (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
+  # When set enabled 'Last Modified' and a link to the commit in the footer of the page.
+  # Param is executed as template using .Site, .Page and .GitInfo as context.
+  BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
 
-  # Enable "Edit this page" links for 'doc' page type.
-  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
-  # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main'
+  # (Optional, default none) Set template for edit page link.
+  # When set enabled 'Edit this page' link in the footer of the page.
+  # Param is executed as template using .Site, .Page and .Path as context.
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/{{ .Path }}'
 
   # Configure the date format used on the pages
   # - In git information
