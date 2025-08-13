@@ -12,30 +12,26 @@ Yuzu is an open-source emulator specifically for the Nintendo Switch, created by
 Website: [Yuzu Emulator](https://yuzuemulater.pro/)
 
 {{% columns %}}
-### Windows
-Available for Windows 10 and 11. Most users will need the x64 version.
+- ### Windows
+  Available for Windows 10 and 11. Most users will need the x64 version.
 
-<img src="/images/windows.png" width="100"/>
+  <img src="/images/windows.png" width="100"/>
 
-{{<button url="https://yuzuemulater.pro/download-yuzu-pc-emulator/">}}Download x64{{</button>}}
+  {{<button href="https://yuzuemulater.pro/download-yuzu-pc-emulator/">}}Download x64{{</button>}}
 
-<--->
+- ### Linux (AppImage)
+  Available for most modern Linux distributions.
 
-### Linux (AppImage)
-Available for most modern Linux distributions.
+  <img src="/images/linux.png" width="100"/>
 
-<img src="/images/linux.png" width="100"/>
+  {{<button href="https://yuzuemulater.pro/yuzu-appimage-for-linux/">}}Download x64{{</button>}}
 
-{{<button url="https://yuzuemulater.pro/yuzu-appimage-for-linux/">}}Download x64{{</button>}}
+- ### Android
+  Available for Android devices, allowing you to play Switch games on the go.
 
-<--->
+  <img src="/images/android.png" width="100"/>
 
-### Android
-Available for Android devices, allowing you to play Switch games on the go.
-
-<img src="/images/android.png" width="100"/>
-
-{{<button url="https://yuzuemulater.pro/download-yuzu-android-emulator/">}}Download{{</button>}}
+  {{<button href="https://yuzuemulater.pro/download-yuzu-android-emulator/">}}Download{{</button>}}
 
 {{% /columns %}}
 
@@ -43,7 +39,7 @@ Available for Android devices, allowing you to play Switch games on the go.
 
 Website: https://yuzuea.com/
 
-{{<button url="https://yuzuea.com/download/">}}Download{{</button>}}
+{{<button href="https://yuzuea.com/download/">}}Download{{</button>}}
 
 ## What are Yuzu Prod Keys?
 

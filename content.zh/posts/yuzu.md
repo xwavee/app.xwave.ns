@@ -12,30 +12,26 @@ Yuzu 是一款由 Citra 团队开发者打造的开源 Nintendo Switch 模拟器
 网站： [Yuzu Emulator](https://yuzuemulater.pro/)
 
 {{% columns %}}
-### Windows
-支持 Windows 10 与 11。大多数用户需要 x64 版本。
+- ### Windows
+  支持 Windows 10 与 11。大多数用户需要 x64 版本。
 
-<img src="/images/windows.png" width="100"/>
+  <img src="/images/windows.png" width="100"/>
 
-{{<button url="https://yuzuemulater.pro/download-yuzu-pc-emulator/">}}下载 x64{{</button>}}
+  {{<button href="https://yuzuemulater.pro/download-yuzu-pc-emulator/">}}下载 x64{{</button>}}
 
-<--->
+- ### Linux（AppImage）
+  适用于大多数现代 Linux 发行版。
 
-### Linux（AppImage）
-适用于大多数现代 Linux 发行版。
+  <img src="/images/linux.png" width="100"/>
 
-<img src="/images/linux.png" width="100"/>
+  {{<button href="https://yuzuemulater.pro/yuzu-appimage-for-linux/">}}下载 x64{{</button>}}
 
-{{<button url="https://yuzuemulater.pro/yuzu-appimage-for-linux/">}}下载 x64{{</button>}}
+- ### Android
+  可在 Android 设备上使用，让你随时随地游玩。
 
-<--->
+  <img src="/images/android.png" width="100"/>
 
-### Android
-可在 Android 设备上使用，让你随时随地游玩。
-
-<img src="/images/android.png" width="100"/>
-
-{{<button url="https://yuzuemulater.pro/download-yuzu-android-emulator/">}}下载{{</button>}}
+  {{<button href="https://yuzuemulater.pro/download-yuzu-android-emulator/">}}下载{{</button>}}
 
 {{% /columns %}}
 
@@ -43,7 +39,7 @@ Yuzu 是一款由 Citra 团队开发者打造的开源 Nintendo Switch 模拟器
 
 网站： https://yuzuea.com/
 
-{{<button url="https://yuzuea.com/download/">}}下载{{</button>}}
+{{<button href="https://yuzuea.com/download/">}}下载{{</button>}}
 
 ## 什么是 Yuzu Prod Keys？
 

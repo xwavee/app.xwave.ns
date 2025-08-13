@@ -12,46 +12,42 @@ Ryujinx is an open-source Nintendo Switch emulator designed to replicate the Swi
 Official Ryujinx Website: https://ryujinx.app/
 
 {{% columns %}}
-### Windows
-Available for Windows 10 and 11. Most users will need the x64 version.
+- ### Windows
+  Available for Windows 10 and 11. Most users will need the x64 version.
 
-<img src="/images/windows.png" width="100"/>
+  <img src="/images/windows.png" width="100"/>
 
-{{<button url="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}Download x64{{</button>}}
+  {{<button href="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}Download x64{{</button>}}
 
-<--->
+- ### MacOS
+  Only Apple Silicon Macs are properly supported.
 
-### MacOS
-Only Apple Silicon Macs are properly supported.
+  <img src="/images/macos.png" width="100"/>
 
-<img src="/images/macos.png" width="100"/>
+  {{<button href="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}Download{{</button>}}
 
-{{<button url="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}Download{{</button>}}
+- ### Linux (normal)
 
-<--->
+  Standard Linux executable, with its dependencies, in a tarball.
 
-### Linux (normal)
+  <img src="/images/linux.png" width="100"/>
 
-Standard Linux executable, with its dependencies, in a tarball.
+  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}Download x64{{</button>}}
 
-<img src="/images/linux.png" width="100"/>
-
-{{<button url="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}Download x64{{</button>}}
-
-{{<button url="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}Download ARM{{</button>}}
+  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}Download ARM{{</button>}}
 
 {{% /columns %}}
 
 {{% columns %}}
 
-### Linux (AppImage)
-Available for most modern Linux distributions.
+- ### Linux (AppImage)
+  Available for most modern Linux distributions.
 
-<img src="/images/linux.png" width="100"/>
+  <img src="/images/linux.png" width="100"/>
 
-{{<button url="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}Download x64{{</button>}}
+  {{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}Download x64{{</button>}}
 
-{{<button url="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}Download ARM{{</button>}}
+  {{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}Download ARM{{</button>}}
 
 {{% /columns %}}
 

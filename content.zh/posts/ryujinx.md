@@ -12,33 +12,29 @@ Ryujinx 是一款开源的 Nintendo Switch 模拟器，目标是在电脑上复�
 官方网站： https://ryujinx.app/
 
 {{% columns %}}
-### Windows
-支持 Windows 10 与 11。大多数用户需要 x64 版本。
+- ### Windows
+  支持 Windows 10 与 11。大多数用户需要 x64 版本。
 
-<img src="/images/windows.png" width="100"/>
+  <img src="/images/windows.png" width="100"/>
 
-{{<button url="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}下载 x64{{</button>}}
+  {{<button href="https://update.ryujinx.app/download/query?os=win&arch=x64&rc=stable">}}下载 x64{{</button>}}
 
-<--->
+- ### macOS
+  仅正式支持 Apple Silicon Mac。
 
-### macOS
-仅正式支持 Apple Silicon Mac。
+  <img src="/images/macos.png" width="100"/>
 
-<img src="/images/macos.png" width="100"/>
+  {{<button href="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}下载{{</button>}}
 
-{{<button url="https://update.ryujinx.app/download/query?os=mac&arch=arm64&rc=stable">}}下载{{</button>}}
+- ### Linux（普通包）
 
-<--->
+  标准 Linux 可执行文件与依赖的打包（tarball）。
 
-### Linux（普通包）
+  <img src="/images/linux.png" width="100"/>
 
-标准 Linux 可执行文件与依赖的打包（tarball）。
+  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}下载 x64{{</button>}}
 
-<img src="/images/linux.png" width="100"/>
-
-{{<button url="https://update.ryujinx.app/download/query?os=linux&arch=x64&rc=stable">}}下载 x64{{</button>}}
-
-{{<button url="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}下载 ARM{{</button>}}
+  {{<button href="https://update.ryujinx.app/download/query?os=linux&arch=arm64&rc=stable">}}下载 ARM{{</button>}}
 
 {{% /columns %}}
 
@@ -49,9 +45,9 @@ Ryujinx 是一款开源的 Nintendo Switch 模拟器，目标是在电脑上复�
 
 <img src="/images/linux.png" width="100"/>
 
-{{<button url="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}下载 x64{{</button>}}
+{{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=x64&rc=stable">}}下载 x64{{</button>}}
 
-{{<button url="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}下载 ARM{{</button>}}
+{{<button href="https://update.ryujinx.app/download/query?os=linuxai&arch=arm64&rc=stable">}}下载 ARM{{</button>}}
 
 {{% /columns %}}
 
