@@ -5,7 +5,7 @@ date: 2025-08-10T10:11:02+03:00
 # bookSearchExclude: false
 ---
 
-Download Nintendo Switch Firmware v20.3.0 for all switch emulators and make your gaming experience Smooth.
+Download Nintendo Switch Firmware v21.0.1 for all switch emulators and make your gaming experience Smooth.
 
 Nintendo is continuously working on its system and services. Therefore, they are trying hard to improve the system’s functionality and enhance the user experience in the best possible way.
 
@@ -19,6 +19,10 @@ DOWNLOAD: [Switch Prod Keys](/posts/prod-keys)
 
 | Version | File Size | Links                                                        |
 | ------- | --------- | ------------------------------------------------------------ |
+| v21.0.1 | 341MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.0.1/Firmware.21.0.1.zip) |
+| v21.0.0 | 341MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/21.0.0/Firmware.21.0.0.zip) |
+| v20.5.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip) |
+| v20.4.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.4.0/Firmware.20.4.0.zip) |
 | v20.3.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip) |
 | v20.2.0 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.2.0/Firmware.20.2.0.zip) |
 | V20.1.5 | 340MB     | [DOWNLOAD](https://github.com/THZoria/NX_Firmware/releases/download/20.1.5/Firmware.20.1.5.zip) |

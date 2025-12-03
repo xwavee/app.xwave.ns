@@ -13,6 +13,10 @@ Prod keys 是必需的密钥文件，用于解密系统文件，从而让你可�
 
 | 版本   | 链接 |
 | :----: | :--: |
+| v21.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v21.0.1.zip)** |
+| v21.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v21.0.0.zip)** |
+| v20.5.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.5.0.zip)** |
+| v20.4.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.4.0.zip)** |
 | v20.3.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.3.0.zip)** |
 | v20.2.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.2.0.zip)** |
 | V20.1.5  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.1.5.zip)** |

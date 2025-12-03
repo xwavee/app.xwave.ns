@@ -12,6 +12,10 @@ Product keys are a necessary key file that lets you play your favorite Nintendo 
 
 | Versions |                            Links                             |
 | :------: | :----------------------------------------------------------: |
+| v21.0.1  | **[DOWNLOAD](/prodkeys/ProdKeys_v21.0.1.zip)** |
+| v21.0.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v21.0.0.zip)** |
+| v20.5.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.5.0.zip)** |
+| v20.4.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.4.0.zip)** |
 | v20.3.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.3.0.zip)** |
 | v20.2.0  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.2.0.zip)** |
 | V20.1.5  | **[DOWNLOAD](/prodkeys/ProdKeys_v20.1.5.zip)** |
